@@ -1,0 +1,42 @@
+
+        body {
+            background: #9a2a2acc;
+        }
+
+        header {
+            background: #3fa846;
+        }
+
+        section {
+            background: #7685bdcc;
+        }
+
+        footer {
+            background: #3fa846;
+        }
+
+        h1 {
+            color: #1d3bb2cc
+        }
+
+        h2 {
+            color: #1660AA
+        }
+
+        h3 {
+            color: #792146cc
+        }
+
+        h4 {
+            color: #eadfe1cc
+        }
+
+        header {
+            color: #cccccccc
+        }
+    .red{
+        color: #540606cc
+    }
+   a {
+color: green;
+    }
